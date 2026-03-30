@@ -1,89 +1,111 @@
-✨ Tiki AI
+✨ Tiki AI 👀💗
 
-«not just an AI…
-something that learns a little from you»
-
----
-
-🌐 Live Experience
-
-🔗 https://tiki.ximanta.xyz
+«okayyyyy… so this is not just another AI 😌👉👈
+it’s something i built… and yeahh… maybe it feels a little different 💅»
 
 ---
 
-🤖 Try the Bot
+🌐 live here 👇
+
+👉 https://tiki.ximanta.xyz
+
+---
+
+🤖 try it (don’t be shy 🥴)
 
 👉 https://t.me/TikiAIrobot?start=TikiAIrobot
 
 ---
 
-🧠 About
+🧠 what even is this?
 
-Tiki AI is a small experiment —
-an attempt to create something more than just responses.
+so yeahh…
+i was like — what if AI didn’t feel so… dry?
 
-It’s not built to be perfect.
-It’s built to feel… a little different.
+and boom 💥
+Tiki AI happened.
 
-A personality.
-A presence.
-Something that adapts, even if just slightly.
+not perfect.
+not super smart.
 
----
-
-💫 Features
-
-- Personality-driven responses
-- Simple interaction via Telegram
-- Clean web interface
-- Lightweight & minimal design
-- Experimental memory behavior
+just…
+a little soft
+a little weird
+a little human-ish 👀
 
 ---
 
-🧪 Why this exists
+💫 features (kinda cool tbh)
 
-Most AI tools feel… robotic.
-
-Tiki AI tries something else.
-
-Not smarter.
-Not bigger.
-
-Just a little more human.
+- talks like a person (not textbook 💀)
+- remembers a bit (don’t worry… not creepy 😭)
+- simple telegram interaction
+- clean lil website
+- personality-driven replies
 
 ---
 
-⚙️ Tech (kept simple)
+🧪 why i made this
+
+honestly?
+
+most AI feels like:
+
+«“Hello, how can I assist you today?”»
+
+nahhh 😭
+
+i wanted something like:
+
+«“hmm… that’s interesting 😏”»
+
+something with vibe.
+something with presence.
+
+---
+
+⚙️ tech stuff (for the nerds 🧠)
 
 - Telegram Bot API
 - ChatGPT API
 - JavaScript
-- Custom frontend
+- custom frontend (yeah i made that too 💅)
 
 ---
 
-📦 Source
+📦 repo (if you wanna stalk code 👀)
 
-Explore the code:
 👉 https://github.com/ximantaxyz/Tiki-AI
 
 ---
 
-🌍 Connect
+🌍 me everywhere (kinda)
 
 - Instagram → https://instagram.com/ximanta.exe
 - Telegram → https://t.me/ximantaa
 
 ---
 
-⚠️ Note
+⚠️ note
 
-This is not a production system.
-Just an idea… made real.
+this is not some big startup thing 😭
+just an idea i turned real.
+
+---
+
+💗 credits (lol me)
+
+built by:
+Ximanta / Tuku / Tiki 😏
 
 ---
 
 © 2026 Tiki AI
 
-All rights reserved.
+all rights reserved 💅
+(yeahh i’m claiming this 🥴)
+
+---
+
+«if you’re reading this…
+you’re kinda cool ngl 👉👈👀💗»
